@@ -1,0 +1,2 @@
+pyTelegramBotAPI
+seatable_api
